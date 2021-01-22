@@ -1,0 +1,2 @@
+# streamhash-lite-package
+ 
